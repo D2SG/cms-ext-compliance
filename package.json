@@ -3,6 +3,10 @@
   "version": "1.0.0-beta.1",
   "description": "Compliance extension for @koehler8/cms — Cookie, Terms, and Privacy policy pages",
   "license": "MIT",
+  "keywords": ["cms", "extension", "koehler8", "compliance", "privacy", "terms", "cookies"],
+  "bugs": {
+    "url": "https://github.com/koehler8/cms-ext-compliance/issues"
+  },
   "type": "module",
   "author": "Chris Koehler",
   "homepage": "https://github.com/koehler8/cms-ext-compliance",
@@ -14,7 +18,8 @@
     "index.js",
     "extension.config.json",
     "components",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "peerDependencies": {
     "@koehler8/cms": "^1.0.0-beta.1"

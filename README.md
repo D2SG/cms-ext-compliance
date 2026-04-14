@@ -58,3 +58,11 @@ First-party bundle that keeps the legal surfaces (cookies, terms of service, and
 - Manifest schema and validation rules: `docs/extensions.md`
 - Site configuration fundamentals: `docs/configuration.md`
 - Routing behaviour for `/privacy`, `/terms`, `/cookies`: `docs/architecture.md`
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+## License
+
+[MIT](./LICENSE)
