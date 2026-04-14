@@ -1,5 +1,5 @@
 import { createApp, h } from 'vue';
-import manifest from './extension.config.json';
+import manifest from './extension.config.json' with { type: 'json' };
 import CookieConsentBanner from './components/CookieConsent.vue';
 
 // Explicit dynamic import map — import.meta.glob does not work for
