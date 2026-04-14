@@ -1,7 +1,7 @@
 {
   "name": "@koehler8/cms-ext-compliance",
   "version": "1.0.0-beta.1",
-  "description": "Compliance extension for @koehler8/cms — Cookie, Terms, and Privacy policy pages",
+  "description": "Compliance extension for Vertex CMS — Cookie, Terms, and Privacy policy pages",
   "license": "MIT",
   "keywords": ["cms", "extension", "koehler8", "compliance", "privacy", "terms", "cookies"],
   "bugs": {
